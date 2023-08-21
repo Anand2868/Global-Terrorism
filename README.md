@@ -1,4 +1,4 @@
-PROJECT SUMMARY
+**PROJECT SUMMARY**
 
 The project titled "Global Terrorism Analysis" aims to comprehensively analyze and understand the patterns, trends, and characteristics of terrorism incidents worldwide. By leveraging data from reliable sources, the project seeks to provide insights into the various aspects of global terrorism, including its causes, locations, methods, and outcomes. The analysis will facilitate a deeper understanding of the evolving nature of terrorism, aiding policymakers, researchers, and the general public in formulating informed strategies to counter and prevent acts of terrorism
 
